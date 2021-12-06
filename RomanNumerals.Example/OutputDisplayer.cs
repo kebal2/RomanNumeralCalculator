@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RomanNumerals
+namespace RomanNumerals.Example
 {
     public static class OutputDisplayer
     {
