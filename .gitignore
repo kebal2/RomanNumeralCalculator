@@ -2,3 +2,7 @@ RomanNumeralsTests/obj/
 RomanNumeralsTests/Properties/
 RomanNumerals/obj/
 RomanNumerals/bin/
+/.idea/
+/.vs/
+obj/
+bin/
